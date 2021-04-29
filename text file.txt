@@ -7,6 +7,6 @@ hello world
 <<<<<<< HEAD
 I'm srinath from chenni.Welcome All.
 =======
-I'm srinath from chenni
+I'm srinath from chenni.Welcome All.
 >>>>>>> 1eb53e993182ffd544b36dde718a1868ad814f41
 >>>>>>> 5285652b150e45f63b883a23a6dc0ad2c3d2eac6
